@@ -1,2 +1,2 @@
 # FrutasPreferidas
-resoluçâo de exercícios da lista em saída em console
+resoluçâo de exercícios da lista de saída em console
